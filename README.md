@@ -2,9 +2,7 @@
 - 👀 I’m interested in ... smart contract auditing, bug bounty, animating haha
 - 🌱 I’m currently learning ... smart contract auditing
 - 💞️ I’m looking to collaborate on ... anything as long as i love it
-- 📫 How to reach me ... twitter:@hackwilla
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 📫 How to reach me ... twitter:@mayola_sec
 
 <!---
 Mayolah4cks/Mayolah4cks is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
